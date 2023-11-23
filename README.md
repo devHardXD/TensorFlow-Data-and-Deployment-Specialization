@@ -1,2 +1,2 @@
-# Browser-based-Model-with-TensorflowJS
-Browser-based Model with TensorflowJS Coursera
+# TensorFlow-Data-and-Deployment-Specialization
+TensorFlow-Data-and-Deployment-Specialization Coursera
