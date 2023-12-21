@@ -1,2 +1,2 @@
 # TensorFlow-Data-and-Deployment-Specialization
-TensorFlow-Data-and-Deployment-Specialization Coursera
+Every coding assignment of TensorFlow Data and Deployment Specialization by Coursera
